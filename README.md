@@ -129,7 +129,7 @@ npm run preview
 
 [Bhuwneshwar Singh](https://github.com/bhuwneshwar2001)
 
-[Suraj Babu](https://github.com/bhuwneshwar2001)
+[Suraj Babu](https://github.com/surajbabu05)
 
 ---
 
