@@ -32,8 +32,8 @@ A fast, modern, and responsive **Photo Gallery Web Application** built using **R
 ### 1. Clone the repository
 
 ```bash
-git clone your-repo-link
-cd project-folder-name
+git clone https://github.com/Coder-Ankit-MCA/Photo-Gallery-Application.git
+cd Photo-Gallery-Application
 ```
 ### 2. Install dependencies
 
